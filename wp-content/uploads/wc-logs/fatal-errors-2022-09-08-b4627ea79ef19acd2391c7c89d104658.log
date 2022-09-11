@@ -1,0 +1,10 @@
+2022-09-08T09:30:24+00:00 CRITICAL syntax error, unexpected token "{", expecting "(" in /home/mpetrovic/public_html/roman/wp-content/themes/Divi-child/functions.php on line 30
+
+2022-09-08T09:31:04+00:00 CRITICAL syntax error, unexpected token "do" in /home/mpetrovic/public_html/roman/wp-content/themes/Divi-child/functions.php on line 32
+
+2022-09-08T09:31:04+00:00 CRITICAL syntax error, unexpected token "do" in /home/mpetrovic/public_html/roman/wp-content/themes/Divi-child/functions.php on line 32
+
+2022-09-08T09:40:15+00:00 CRITICAL syntax error, unexpected token "echo", expecting "," or ";" in /home/mpetrovic/public_html/roman/wp-content/themes/Divi-child/functions.php on line 33
+
+2022-09-08T09:40:47+00:00 CRITICAL syntax error, unexpected token "echo", expecting "," or ";" in /home/mpetrovic/public_html/roman/wp-content/themes/Divi-child/functions.php on line 33
+
