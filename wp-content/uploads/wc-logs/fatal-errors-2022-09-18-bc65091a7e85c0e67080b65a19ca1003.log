@@ -1,0 +1,10 @@
+2022-09-18T16:46:54+00:00 CRITICAL Uncaught Error: Call to undefined function exif_imagetype() in /home/mpetrovic/public_html/projekat/wp-content/plugins/wp-compress-image-optimizer/addons/legacy/compress.php:1062
+Stack trace:
+#0 /home/mpetrovic/public_html/projekat/wp-content/plugins/wp-compress-image-optimizer/classes/ajax.class.php(1634): wps_local_compress->compress_image(987)
+#1 /home/mpetrovic/public_html/projekat/wp-includes/class-wp-hook.php(307): wps_ic_ajax->wps_ic_doBulkCompress('')
+#2 /home/mpetrovic/public_html/projekat/wp-includes/class-wp-hook.php(331): WP_Hook->apply_filters('', Array)
+#3 /home/mpetrovic/public_html/projekat/wp-includes/plugin.php(476): WP_Hook->do_action(Array)
+#4 /home/mpetrovic/public_html/projekat/wp-admin/admin-ajax.php(187): do_action('wp_ajax_wps_ic_...')
+#5 {main}
+  thrown in /home/mpetrovic/public_html/projekat/wp-content/plugins/wp-compress-image-optimizer/addons/legacy/compress.php on line 1062
+
